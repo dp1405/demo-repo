@@ -1,11 +1,11 @@
-#demo
+# demo
 
 Hello world!
 
-##subheader
+## subheader
 
 Nice to meet you!
 
-##update
+## update
 
 Updated readme file
